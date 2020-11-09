@@ -9,5 +9,8 @@
  * @author QUENTIN
  */
 public class NewClass {//commentaire Tp
+    //
+    // Add new comment
+    //
     
 }
