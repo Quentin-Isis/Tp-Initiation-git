@@ -12,5 +12,7 @@ public class NewClass {//commentaire Tp
     //
     // Add new comment
     //
-    
+    //
+    //
+    // Add comment for conflict
 }
